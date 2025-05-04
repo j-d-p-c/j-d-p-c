@@ -1,4 +1,3 @@
 ## Jose Daniel    
 
-<!--
-**Learner
+Learner

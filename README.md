@@ -1,3 +1,3 @@
 ## Jose Daniel    
 
-Learner
+ML & AI Engineer and Civil Engineer with an M.S. in Artificial Intelligence (Computer Vision and NLP). Proven expertise in building end-to-end deep learning pipelines, RAG systems with dense retrieval and LLM fine-tuning, automating engineering workflows, and deploying production ML systems on AWS. Experienced with Python, PyTorch, Hugging Face, FAISS, and LoRA-based fine-tuning. Passionate about applying AI to solve real-world problems at the intersection of engineering and machine learning. Strong collaborator with excellent communication skills and experience in interdisciplinary teams.

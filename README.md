@@ -1,6 +1,6 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jose%20Daniel%20Pineda&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20for%20engineering%2C%20conservation%20%26%20digital%20twins&descSize=18&descAlignY=60&descColor=a78bfa)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=220&amp;section=header&amp;text=Jose%20Daniel%20Pineda&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20for%20engineering%2C%20conservation%20%26%20digital%20twins&amp;descSize=18&amp;descAlignY=60&amp;descColor=a78bfa" alt="header" width="100%" />
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer;Conservation+%26+Digital+Twins;Building+at+the+edge+of+what%27s+possible)](https://git.io/typing-svg)
 
@@ -41,4 +41,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" alt="footer" width="100%" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)

@@ -1,10 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jose%20Daniel%20Pineda&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20for%20engineering%2C%20conservation%20%26%20digital%20twins&descSize=18&descAlignY=60&descColor=a78bfa)
+<div align="center">
+  <h1>Jose Daniel Pineda</h1>
+  <p><em>AI for engineering, conservation &amp; digital twins</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer;Conservation+%26+Digital+Twins;Building+at+the+edge+of+what%27s+possible" alt="Typing SVG" />
+</div>
+
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" height="20px"/>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Engineer;Conservation+%26+Digital+Twins;Building+at+the+edge+of+what%27s+possible)](https://git.io/typing-svg)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--pineda98-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-pineda98)
 &nbsp;
@@ -12,7 +14,7 @@
 
 </div>
 
-<br/>
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" height="20px"/>
 
 <div align="center">
 
@@ -39,6 +41,4 @@
 
 </div>
 
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif" height="20px"/>

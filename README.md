@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jose Daniel Pineda
+# Jose Daniel
 
 **AI for engineering, conservation & digital twins**
 
